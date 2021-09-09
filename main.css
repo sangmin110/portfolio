@@ -59,7 +59,7 @@ body {font-family: 'Open Sans', 'Noto Sans KR', sans-serif;}
 
 
 .m02 {background:url(./assets/img/bg03.png)}
-.m02 .container {display:flex;width:1700px;margin:0 auto;}
+.m02 .container {display:flex;width:1700px;margin:0 auto;position:relative;height:100vh;}
 .m02 .container .mockup {flex:9;}
 .m02 .container .txt {flex:7;display:flex;align-items: center;}
 .m02 .container .mockup figure {background:url(./assets/img/티비2.png) no-repeat;height:720px;padding:140px 120px;}
