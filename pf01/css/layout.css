@@ -167,32 +167,6 @@ body {font-family: 'Noto Sans KR', sans-serif;}
 }
 
 
-#con03 {padding:100px 0;}
-#con03 .container {display:flex;width:1200px;margin:0 auto;}
-#con03 .container figure {flex:1;padding:0 15px;}
-#con03 .container .txt {flex:1;padding:50px 15px;}
-#con03 .container video {width:100%;}
-
-
-#con03 .container .txt h2 {font-size:30px;font-weight:700;margin-bottom:20px;}
-#con03 .container .txt p {font-size:14px;font-weight:300;margin-bottom:30px;line-height:1.4;}
-
-#con03 .container .txt i {font-size:24px;color:#fff;background:#333;border-radius: 5px;padding:10px;}
-
-
-@media (max-width:768px) {
-    #con03 {padding:100px 0;}
-    #con03 .container {display:flex;flex-direction:column;width:auto;margin:0 auto;overflow:hidden;}
-    #con03 .container figure {flex:1;padding:0 15px;}
-    #con03 .container .txt {flex:1;padding:50px 15px;}
-    #con03 .container video {width:100%;}
-
-
-    #con03 .container .txt h2 {font-size:30px;font-weight:700;margin-bottom:20px;}
-    #con03 .container .txt p {font-size:14px;font-weight:300;margin-bottom:30px;line-height:1.4;}
-
-    #con03 .container .txt i {font-size:24px;color:#fff;background:#333;border-radius: 5px;padding:10px;}
-}
 
 
 
