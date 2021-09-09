@@ -41,7 +41,6 @@ body {font-family: 'Open Sans', 'Noto Sans KR', sans-serif;}
 
 
 
-
 .m01 h2 {text-align:center;font-size:80px;color:#053742; font-family: 'Allison', cursive;letter-spacing:0.025em;margin-bottom:20px;transform:translateY(100px);opacity:0;}
 .m01 p {text-align:center;font-size:14px;color:#053742;letter-spacing:0.025em;line-height:1.4;transform:translateY(100px);opacity:0;}
 
@@ -58,16 +57,16 @@ body {font-family: 'Open Sans', 'Noto Sans KR', sans-serif;}
 
 
 
-.m02 {background:url(./assets/img/그라데이션3.jpg)}
+.m02 {background:url(./assets/img/바다1.jpg)}
 .m02 .container {display:flex;width:1700px;margin:0 auto;position:relative;height:100vh;}
 .m02 .container .mockup {flex:9;}
 .m02 .container .txt {flex:7;display:flex;align-items: center;}
-.m02 .container .mockup figure {height:720px;padding:140px 120px;}
-.m02 .container .mockup figure .portfolio01 {height:400px;right:28px;border-radius:5px;overflow:hidden;}
-.m02 .txt h3 {font-size:50px;font-weight:300;font-family: 'Allison', cursive;margin-bottom:30px;}
-.m02 .txt p {font-size:16px;font-weight:300;line-height:1.8; margin-bottom:30px;}
-.m02 .txt ul {line-height:1.4;margin-bottom:30px;}
-.m02 .txt i {font-size:40px;color:#fff;background:#333;padding:10px;border-radius:50%;margin-right:15px;}
+.m02 .container .mockup figure {height:720px;padding:px 120px;}
+.m02 .container .mockup figure .portfolio01 {height:400px;right:28px;border-radius:3px;overflow:hidden;}
+.m02 .txt h3 {font-size:50px;color:#fff;font-weight:300;font-family: 'Allison', cursive;margin-bottom:30px;}
+.m02 .txt p {font-size:16px;color:#fff;font-weight:300;line-height:1.8; margin-bottom:30px;}
+.m02 .txt ul {line-height:1.4;margin-bottom:30px;color:#fff;}
+.m02 .txt i {font-size:50px;color:#fff;padding:5px;border-radius:50%;margin-right:1px;}
 
 @media (max-width:768px) {
     .m02 {background:#fff url(./assets/img/그라데이션3.jpg);position:relative;height:100vh;}
@@ -85,16 +84,16 @@ body {font-family: 'Open Sans', 'Noto Sans KR', sans-serif;}
 
 
 
-.m03 {background:#f7f7f7 url(./assets/img/구찌배경2.jpg)}
+.m03 {background:#f7f7f7 url(./assets/img/배경2.jpg)}
 .m03 .container {display:flex;width:1700px;margin:0 auto;position:relative;height:100vh;}
 .m03 .container .mockup {flex:9;}
 .m03 .container .txt {flex:7;order:-1; display:flex;align-items: center;}
-.m03 .container .mockup figure { height:720px;padding:300px 120px;}
-.m03 .container .mockup figure .portfolio02 {height:403Px;right:28px;border-radius:2px;overflow:hidden;}
+.m03 .container .mockup figure { height:720px;padding:310px 120px;}
+.m03 .container .mockup figure .portfolio02 {height:403Px;right:28px;border-radius:3px;overflow:hidden;}
 .m03 .txt h3 {font-size:50px;color:#fff; font-family: 'Allison', cursive;margin-bottom:30px;}
 .m03 .txt p {font-size:16px;color:#fff;font-weight:300;line-height:1.4;margin-bottom:30px;}
 .m03 .txt ul {line-height:1.4;color:#fff;margin-bottom:30px;}
-.m03 .txt i {font-size:40px;color:#fff;background:#333;padding:10px;border-radius:50%;margin-right:15px;}
+.m03 .txt i {font-size:50px;color:#fff;padding:5px;border-radius:50%;margin-right:1px;}
 .m03 .txt .spec {margin-left:auto;}
 
 @media (max-width:738px) {
@@ -113,19 +112,19 @@ body {font-family: 'Open Sans', 'Noto Sans KR', sans-serif;}
 
 
 
-.m04 {background:url(./assets/img/그라데이션5.jpg);position:relative;height:100vh;}
+.m04 {background:url(./assets/img/배경3.jpg);position:relative;height:100vh;}
 .m04 .container {display:flex;width:1700px;margin:0 auto;}
 .m04 .container .mockup {flex:9;}
 .m04 .container .txt {flex:7;display:flex;align-items: center;}
-.m04 .container .mockup figure {background:url(./assets/img/티비2.png) no-repeat;height:720px;padding:140px 120px;}
-.m04 .container .mockup figure .portfolio03 {height:400px;right:28px;border-radius:5px;overflow:hidden;}
-.m04 .txt h3 {font-size:50px;font-family: 'Allison', cursive;margin-bottom:30px;}
-.m04 .txt p {font-size:16px;font-weight:300;line-height:1.4;margin-bottom:30px;}
-.m04 .txt ul {line-height:1.4;margin-bottom:30px;}
-.m04 .txt i {font-size:40px;color:#fff;background:#333;padding:10px;border-radius:50%;margin-right:15px;}
+.m04 .container .mockup figure {height:720px;padding:150px 120px;}
+.m04 .container .mockup figure .portfolio03 {height:400px;right:28px;border-radius:3px;overflow:hidden;}
+.m04 .txt h3 {font-size:50px;color:#fff;font-family: 'Allison', cursive;margin-bottom:30px;}
+.m04 .txt p {font-size:16px;color:#fff;font-weight:300;line-height:1.4;margin-bottom:30px;}
+.m04 .txt ul {line-height:1.4;margin-bottom:30px;color:#fff;}
+.m04 .txt i {font-size:50px;color:#fff;padding:5px;border-radius:50%;margin-right:1px;}
 
 @media (max-width:768px) {
-    .m04 {background:#fff url(./assets/img/그라데이션5.jpg);position:relative;height:100vh;}
+    .m04 {background:#fff url(./assets/img/배경1.jpg);position:relative;height:100vh;}
     .m04 .container {display:flex;flex-direction:column;width:auto;margin:0 auto;}
     .m04 .container .mockup {flex:9;}
     .m04 .container .txt {flex:7;display:flex;align-items: center;padding:30px 30px 0 30px;}
@@ -134,7 +133,7 @@ body {font-family: 'Open Sans', 'Noto Sans KR', sans-serif;}
     .m04 .txt h3 {font-size:40px;font-family: 'Allison', cursive;margin-bottom:20px;}
     .m04 .txt p {font-size:14px;font-weight:300;line-height:1.4;margin-bottom:20px;}
     .m04 .txt ul {line-height:1.4;margin-bottom:30px;}
-    .m04 .txt i {font-size:30px;color:#fff;background:#333;padding:5px;border-radius:50%;margin-right:10px;}
+    .m04 .txt i {font-size:50px;color:#fff;padding:5px;border-radius:50%;margin-right:1px;}
 
 }
 
