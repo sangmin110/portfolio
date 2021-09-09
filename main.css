@@ -58,7 +58,7 @@ body {font-family: 'Open Sans', 'Noto Sans KR', sans-serif;}
 
 
 
-.m02 {background:url(./assets/img/bg03.png)}
+.m02 {background:url(./assets/img/그라데이션3.jpg)}
 .m02 .container {display:flex;width:1700px;margin:0 auto;position:relative;height:100vh;}
 .m02 .container .mockup {flex:9;}
 .m02 .container .txt {flex:7;display:flex;align-items: center;}
@@ -70,7 +70,7 @@ body {font-family: 'Open Sans', 'Noto Sans KR', sans-serif;}
 .m02 .txt i {font-size:40px;color:#fff;background:#333;padding:10px;border-radius:50%;margin-right:15px;}
 
 @media (max-width:768px) {
-    .m02 {background:#fff url(./assets/img/bg03.png);position:relative;height:100vh;}
+    .m02 {background:#fff url(./assets/img/그라데이션3.jpg);position:relative;height:100vh;}
     .m02 .container {display:flex;flex-direction:column;width:auto;margin:0 auto;}
     .m02 .container .mockup {flex:1;}
     .m02 .container .txt {flex:1;display:flex;align-items: center;padding:30px 30px 0 30px;}
@@ -85,7 +85,7 @@ body {font-family: 'Open Sans', 'Noto Sans KR', sans-serif;}
 
 
 
-.m03 {background:#f7f7f7 url(./assets/img/bg04.png)}
+.m03 {background:#f7f7f7 url(./assets/img/그라데이션1.jpg)}
 .m03 .container {display:flex;width:1700px;margin:0 auto;position:relative;height:100vh;}
 .m03 .container .mockup {flex:9;}
 .m03 .container .txt {flex:7;order:-1; display:flex;align-items: center;}
@@ -98,7 +98,7 @@ body {font-family: 'Open Sans', 'Noto Sans KR', sans-serif;}
 .m03 .txt .spec {margin-left:auto;}
 
 @media (max-width:738px) {
-    .m03 {background:#f7f7f7 url(./assets/img/bg04.png);position:relative;height:100vh;}
+    .m03 {background:#f7f7f7 url(./assets/img/그라데이션1.jpg);position:relative;height:100vh;}
     .m03 .container {display:flex;flex-direction:column;width:auto;margin:0 auto;}
     .m03 .container .mockup {flex:1;}
     .m03 .container .txt {flex:1;order:2;display:flex;align-items: center;padding:30px 30px 0 30px;}
