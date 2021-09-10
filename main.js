@@ -91,6 +91,19 @@ $(function(){
         playOnlyIfVisible: true,
         optimizeDisplay:false,
     });
+
+ 
+    $("#portfolio05").YTPlayer({
+        videoURL:'iJ6WIfeS3_c',
+        containment:'.m06',
+        autoPlay:true, 
+        mute:true, 
+        showControls: false,
+        playOnlyIfVisible: true,
+        useOnMobile: true,
+    });
+    
+
     
     
     $(".m05 .xi-play-circle-o").on("click", function(){
