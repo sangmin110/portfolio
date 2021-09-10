@@ -35,11 +35,11 @@ $(function(){
     });
     
     
-    $(".m02 .xi-play").on("click", function(){
+    $(".m02 .xi-play-circle-o").on("click", function(){
         $("#portfolio01").YTPPlay();
     });
     
-    $(".m02 .xi-pause").on("click", function(){
+    $(".m02 .xi-pause-circle-o").on("click", function(){
         $("#portfolio01").YTPPause();
     });
     
@@ -54,11 +54,11 @@ $(function(){
     });
     
     
-    $(".m03 .xi-play").on("click", function(){
+    $(".m03 .xi-play-circle-o").on("click", function(){
         $("#portfolio02").YTPPlay();
     });
     
-    $(".m03 .xi-pause").on("click", function(){
+    $(".m03 .xi-pause-circle-o").on("click", function(){
         $("#portfolio02").YTPPause();
     });
     
@@ -74,11 +74,11 @@ $(function(){
     });
     
     
-    $(".m04 .xi-play").on("click", function(){
+    $(".m04 .xi-play-circle-o").on("click", function(){
         $("#portfolio03").YTPPlay();
     });
     
-    $(".m04 .xi-pause").on("click", function(){
+    $(".m04 .xi-pause-circle-o").on("click", function(){
         $("#portfolio03").YTPPause();
     });
     
@@ -93,11 +93,11 @@ $(function(){
     });
     
     
-    $(".m05 .xi-play").on("click", function(){
+    $(".m05 .xi-play-circle-o").on("click", function(){
         $("#portfolio04").YTPPlay();
     });
     
-    $(".m05 .xi-pause").on("click", function(){
+    $(".m05 .xi-pause-circle-o").on("click", function(){
         $("#portfolio04").YTPPause();
     });
     

@@ -61,7 +61,7 @@ body {font-family: 'Open Sans', 'Noto Sans KR', sans-serif;}
 .m02 .container {display:flex;width:1700px;margin:0 auto;position:relative;height:100vh;}
 .m02 .container .mockup {flex:9;}
 .m02 .container .txt {flex:7;display:flex;align-items: center;}
-.m02 .container .mockup figure {height:720px;padding:px 120px;}
+.m02 .container .mockup figure {height:720px;padding:300px 120px;}
 .m02 .container .mockup figure .portfolio01 {height:400px;right:28px;border-radius:3px;overflow:hidden;}
 .m02 .txt h3 {font-size:50px;color:#fff;font-weight:300;font-family: 'Allison', cursive;margin-bottom:30px;}
 .m02 .txt p {font-size:16px;color:#fff;font-weight:300;line-height:1.8; margin-bottom:30px;}
