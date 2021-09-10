@@ -61,12 +61,12 @@ body {font-family: 'Open Sans', 'Noto Sans KR', sans-serif;}
 .m02 .container {display:flex;width:1700px;margin:0 auto;position:relative;height:100vh;}
 .m02 .container .mockup {flex:9;}
 .m02 .container .txt {flex:7;display:flex;align-items: center;}
-.m02 .container .mockup figure {height:720px;padding:300px 120px;}
-.m02 .container .mockup figure .portfolio01 {height:400px;right:28px;border-radius:3px;overflow:hidden;}
+.m02 .container .mockup figure {height:720px;padding:280px 120px;}
+.m02 .container .mockup figure .portfolio01 {height:403px;right:28px;border-radius:3px;overflow:hidden;}
 .m02 .txt h3 {font-size:50px;color:#fff;font-weight:300;font-family: 'Allison', cursive;margin-bottom:30px;}
 .m02 .txt p {font-size:16px;color:#fff;font-weight:300;line-height:1.8; margin-bottom:30px;}
-.m02 .txt ul {line-height:1.4;margin-bottom:30px;color:#fff;}
-.m02 .txt i {font-size:50px;color:#fff;padding:5px;border-radius:50%;margin-right:1px;}
+.m02 .txt ul {line-height:1.4;margin-bottom:20px;color:#fff;}
+.m02 .txt i {font-size:50px;color:#fff;padding:1px;border-radius:50%;margin-right:1px;}
 
 @media (max-width:768px) {
     .m02 {background:#fff url(./assets/img/그라데이션3.jpg);position:relative;height:100vh;}
@@ -88,12 +88,13 @@ body {font-family: 'Open Sans', 'Noto Sans KR', sans-serif;}
 .m03 .container {display:flex;width:1700px;margin:0 auto;position:relative;height:100vh;}
 .m03 .container .mockup {flex:9;}
 .m03 .container .txt {flex:7;order:-1; display:flex;align-items: center;}
-.m03 .container .mockup figure { height:720px;padding:310px 120px;}
+.m03 .container .mockup figure { height:720px;padding:300px 120px;}
 .m03 .container .mockup figure .portfolio02 {height:403Px;right:28px;border-radius:3px;overflow:hidden;}
+
 .m03 .txt h3 {font-size:50px;color:#fff; font-family: 'Allison', cursive;margin-bottom:30px;}
-.m03 .txt p {font-size:16px;color:#fff;font-weight:300;line-height:1.4;margin-bottom:30px;}
-.m03 .txt ul {line-height:1.4;color:#fff;margin-bottom:30px;}
-.m03 .txt i {font-size:50px;color:#fff;padding:5px;border-radius:50%;margin-right:1px;}
+.m03 .txt p {font-size:16px;color:#fff;font-weight:300;line-height:1.8;margin-bottom:30px;}
+.m03 .txt ul {line-height:1.4;color:#fff;margin-bottom:20px;}
+.m03 .txt i {font-size:50px;color:#fff;padding:1px;border-radius:50%;margin-right:1px;}
 .m03 .txt .spec {margin-left:auto;}
 
 @media (max-width:738px) {
@@ -161,7 +162,7 @@ body {font-family: 'Open Sans', 'Noto Sans KR', sans-serif;}
     .m05 .txt h3 {font-size:40px;font-family: 'Allison', cursive;margin-bottom:20px;}
     .m05 .txt p {font-size:14px;font-weight:300;line-height:1.4;margin-bottom:20px;}
     .m05 .txt ul {line-height:1.4;margin-bottom:30px;}
-    .m05 .txt i {font-size:30px;color:#fff;background:#333;padding:5px;border-radius:50%;margin-right:10px;}
+    .m05 .txt i {font-size:50px;color:#fff;padding:5px;border-radius:50%;margin-right:1px;}
     .m05 .txt .spec {margin-left:auto;}
 }
 
