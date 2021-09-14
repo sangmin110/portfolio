@@ -190,7 +190,7 @@ body {font-family: 'Open Sans', 'Noto Sans KR', sans-serif;}
 .m06 .info {line-height:1.6;}
 
 @media (max-width:768px) {
-    .m06 {background:#fff url(./assets/img/bg03.png);position:relative;height:100vh;}
+    .m06 {background:#fff url(./assets/img/웹사이트\ 테두리.png);position:relative;height:100vh;}
     .m06 .container {display:flex;flex-direction:column;width:auto;margin:0 auto;}
     .m06 .container .mockup {flex:9;}
     .m06 .container .txt {flex:7;display:flex;align-items: center;padding:30px 30px 0 30px;}
@@ -213,7 +213,7 @@ body {font-family: 'Open Sans', 'Noto Sans KR', sans-serif;}
 
 
 
-.m07 {position:relative;background:#f7f7f7 url();}
+.m07 {position:relative;background:#f7f7f7 url(./assets/img/유튜브배경1.jpg);}
 .m07 .photo_slider {width:1200px;margin:0 auto;}
 .m07 .photo_slider figure {padding:0 15px;}
 .m07 .photo_slider img {width:100%;border-radius:20px;}
@@ -226,11 +226,11 @@ body {font-family: 'Open Sans', 'Noto Sans KR', sans-serif;}
 
 .m07 .slick-dots {display:flex;justify-content:center;margin-top:30px;}
 .m07 .slick-dots li {width:60px;height:6px;background:#333;border-radius:3px;overflow:hidden;margin:0 4px;transition:0.5s;}
-.m07 .slick-dots li:after {content:'';display:block;width:0;height:100%;background:#f00;}
+.m07 .slick-dots li:after {content:'';display:block;width:0;height:100%;background:#fff;}
 .m07 .slick-dots li.slick-active:after {width:100%;transition:2s;}
 .m07 .slick-dots button {display:none;}
 
-.m07 i {position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);font-size:50px;color:#999;}
+.m07 i {position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);font-size:50px;color:#f7f7f7;}
 .m07 i.xi-angle-left {margin-left:-800px;}
 .m07 i.xi-angle-right {margin-left:800px;}
 
@@ -248,7 +248,7 @@ body {font-family: 'Open Sans', 'Noto Sans KR', sans-serif;}
     
     .m07 .slick-dots {display:flex;justify-content:center;margin-top:30px;}
     .m07 .slick-dots li {width:15px;height:15px;background:#333;border-radius:50%;overflow:hidden;margin:0 4px;transition:0.5s;}
-    .m07 .slick-dots li:after {content:'';display:block;width:0;height:100%;background:#f00;}
+    .m07 .slick-dots li:after {content:'';display:block;width:0;height:100%;background:#fff;}
     .m07 .slick-dots li.slick-active:after {width:100%;transition:2s;}
     .m07 .slick-dots button {display:none;}
     
@@ -259,56 +259,15 @@ body {font-family: 'Open Sans', 'Noto Sans KR', sans-serif;}
 
 
 
-.m08 {background:#f7f7f7 url(./assets/img/bg03.png)}
-.m08 .container {display: flex;width: 1600px ;margin: 0 auto;}
-.m08 .container .mockup {flex:9;}
-.m08 .container .txt {flex:7;display:flex;align-items: center;}
-.m08 .container .mockup figure {background: url(./assets/img/쌤티비.png) no-repeat;height: 720px;padding: 175px 130px 0 130px;}
-.m08 .container .mockup figure .web {height: 430px;overflow: hidden;border-radius: 35px;}
-
-.m08 .txt h3 {font-size: 50px;font-family: 'Allison', cursive;margin-bottom: 30px;}
-.m08 .txt p {font-size: 14px;font-weight: 300;line-height:1.4;margin-bottom: 30px;}
-.m08 .txt ul {line-height:1.4;margin-bottom: 30px;}
-.m08 .txt i {font-size: 40px;color: #fff;background: chocolate;padding: 10px;border-radius: 10px 0 10px 0;margin-right: 15px;}
-
-.m08 .txt a {display:block;width:150px;line-height:40px;padding:0 20px;background:#d26;color:#fff;border-radius:0 15px 15px 0;position:relative;}
-.m08 .txt a:after {content:"";display:block;width:30px;height:30px;background:#fff;border-radius:50%;position:absolute;top:5px;right:35px;opacity:0;transition:0.5s;}
-.m08 .txt a:hover {width:200px}
-.m08 .txt a:hover:after {right:5px;opacity:1;}
-.m08 .txt strong {display:inline-block;width:100px; font-weight:700;text-transform:uppercase;}
-
-
-@media (max-width:768px) {
-    .m08 {background:#fff url(./assets/img/bg03.png);position:relative;height:100vh;}
-    .m08 .container {display:flex;flex-direction:column;width:auto;margin:0 auto;}
-    .m08 .container .mockup {flex:9;}
-    .m08 .container .txt {flex:7;display:flex;align-items: center;padding:60px 30px 0 30px;}
-    .m08 .container .mockup figure {background:none;height:auto;padding:30px 30px 0 30px;}
-    .m08 .container .mockup figure .web {height:250px;overflow:hidden;border-radius:10px}
-    .m08 .container .mockup figure iframe {height:250px;}
-    
-    .m08 .txt h3 {font-size:40px;font-family: 'Allison', cursive;margin-bottom:20px;}
-    .m08 .txt p {font-size:14px;font-weight:300;line-height:1.4;margin-bottom:20px;}
-    .m08 .txt ul {line-height:1.4;margin-bottom:30px;}
-    .m08 .txt i {font-size:30px;color:#fff;background:#333;padding:10px;border-radius:50%;margin-right:10px;}
-    
-    .m08 .txt a {display:block;width:150px;line-height:40px;padding:0 20px;background:#ff6c02;color:#fff;border-radius:0 15px 15px 0;position:relative;transition:0.5s;}
-    .m08 .txt a:after {content:"";display:block;width:30px;height:30px;background:#fff;border-radius:50%;position:absolute;top:5px;right:5px;opacity:1;transition:0.5s;}
-    .m08 .txt a:hover {width:200px;}
-    .m08 .txt a:hover:after {right:5px;opacity:1;}
-    .m08 .txt strong {display:inline-block;width:70px;font-weight:700;text-transform:uppercase;}
-    .m08 .info {line-height:1.6;}    
-}
-
-.m09 {position: relative;background:#f7f7f7 url(./assets/img/bg04.png);}
-.m09 .container {display:flex;justify-content:space-between;width:1600px;margin:0 auto;}
-.m09 .container figure {width:150px;border-radius:50%;overflow:hidden;border:10px solid #333;}
+.m09 {position: relative;background:#f7f7f7 url(./assets/img/검은배경1.jpg);}
+.m09 .container {display:flex;justify-content:space-between;width:1600px;margin:0 auto;color:#fff;}
+.m09 .container figure {width:150px;border-radius:50%;overflow:hidden;border:8px solid#fff;}
 .m09 .container figure img {width:100%;}
-.m09 .container h2 {font-size:30px;font-weight:300;margin-bottom:20px;}
-.m09 .container h2 {font-size:30px;font-weight:100;}
+.m09 .container h2 {font-size:30px;font-weight:300;margin-bottom:20px;color:#fff;}
+.m09 .container h2 {font-size:30px;font-weight:100;color:#fff;}
 
 @media (max-width:768px) {
-    .m09 {position:relative;background:#f7f7f7 url(./assets/img/bg04.png);padding:50px 0;text-align:center;}
+    .m09 {position:relative;background:#f7f7f7 url(./assets/img/검은배경1.jpg);padding:50px 0;text-align:center;}
     .m09 .container {display:flex;flex-direction:column;justify-content:space-between;width:auto;margin:0 auto;}
     .m09 .container figure {width:150px;border-radius:50%;overflow:hidden;border:10px solid #333;margin:30px auto;}
     .m09 .container figure img {width:100%;}
