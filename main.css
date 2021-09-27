@@ -69,7 +69,7 @@ body {font-family: 'Open Sans', 'Noto Sans KR', sans-serif;}
 .m02 .txt i {font-size:50px;color:#fff;padding:1px;border-radius:50%;margin-right:1px;}
 
 @media (max-width:768px) {
-    .m02 {background:#fff url(./assets/img/그라데이션3.jpg);position:relative;height:100vh;}
+    .m02 {background:#fff url(./assets/img/바다1.jpg);position:relative;height:100vh;}
     .m02 .container {display:flex;flex-direction:column;width:auto;margin:0 auto;}
     .m02 .container .mockup {flex:1;}
     .m02 .container .txt {flex:1;display:flex;align-items: center;padding:30px 30px 0 30px;}
@@ -88,7 +88,7 @@ body {font-family: 'Open Sans', 'Noto Sans KR', sans-serif;}
 .m03 .container {display:flex;width:1700px;margin:0 auto;position:relative;height:100vh;}
 .m03 .container .mockup {flex:9;}
 .m03 .container .txt {flex:7;order:-1; display:flex;align-items: center;}
-.m03 .container .mockup figure { height:720px;padding:290px 120px;}
+.m03 .container .mockup figure { height:720px;padding:260px 120px;}
 .m03 .container .mockup figure .portfolio02 {height:403Px;right:28px;border-radius:3px;overflow:hidden;}
 
 .m03 .txt h3 {font-size:50px;color:#fff; font-family: 'Allison', cursive;margin-bottom:30px;}
@@ -98,7 +98,7 @@ body {font-family: 'Open Sans', 'Noto Sans KR', sans-serif;}
 .m03 .txt .spec {margin-left:auto;}
 
 @media (max-width:738px) {
-    .m03 {background:#f7f7f7 url(./assets/img/그라데이션1.jpg);position:relative;height:100vh;}
+    .m03 {background:#f7f7f7 url(./assets/img/배경2.jpg);position:relative;height:100vh;}
     .m03 .container {display:flex;flex-direction:column;width:auto;margin:0 auto;}
     .m03 .container .mockup {flex:1;}
     .m03 .container .txt {flex:1;order:2;display:flex;align-items: center;padding:30px 30px 0 30px;}
@@ -213,7 +213,7 @@ body {font-family: 'Open Sans', 'Noto Sans KR', sans-serif;}
 
 
 
-.m07 {position:relative;background:#f7f7f7 url(./assets/img/유튜브배경1.jpg);}
+.m07 {position:relative;background:#f7f7f7 url(./assets/img/유튜브배경.jpg);}
 .m07 .photo_slider {width:1200px;margin:0 auto;}
 .m07 .photo_slider figure {padding:0 15px;}
 .m07 .photo_slider img {width:100%;border-radius:20px;}
@@ -259,15 +259,15 @@ body {font-family: 'Open Sans', 'Noto Sans KR', sans-serif;}
 
 
 
-.m09 {position: relative;background:#f7f7f7 url(./assets/img/검은배경1.jpg);}
+.m09 {position: relative;background:#f7f7f7 url(./assets/img/배경5.jpg);}
 .m09 .container {display:flex;justify-content:space-between;width:1600px;margin:0 auto;color:#fff;}
-.m09 .container figure {width:150px;border-radius:50%;overflow:hidden;border:8px solid#fff;}
+.m09 .container figure {width:150px;border-radius:50%;overflow:hidden;border:10px solid#fff;}
 .m09 .container figure img {width:100%;}
-.m09 .container h2 {font-size:30px;font-weight:300;margin-bottom:20px;color:#fff;}
-.m09 .container h2 {font-size:30px;font-weight:100;color:#fff;}
+.m09 .container h2 {font-size:25px;font-weight:300;margin-bottom:10px;margin-bottom:10px;color:#fff;}
+.m09 .container h2 {font-size:24px;font-weight:100;color:#fff;}
 
 @media (max-width:768px) {
-    .m09 {position:relative;background:#f7f7f7 url(./assets/img/검은배경1.jpg);padding:50px 0;text-align:center;}
+    .m09 {position:relative;background:#f7f7f7 url(./assets/img/배경5.png);padding:50px 0;text-align:center;}
     .m09 .container {display:flex;flex-direction:column;justify-content:space-between;width:auto;margin:0 auto;}
     .m09 .container figure {width:150px;border-radius:50%;overflow:hidden;border:10px solid #333;margin:30px auto;}
     .m09 .container figure img {width:100%;}
